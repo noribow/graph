@@ -1,0 +1,9 @@
+[package]
+name = "plugin_load"
+version = "0.1.0"
+authors = ["Takanori SHIRAI <1884868+noribow@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
